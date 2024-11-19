@@ -1,3 +1,10 @@
+---
+title: "How Does a Website Open?"
+date: "2024-11-19"
+description: "Hyperlinks to ethernet"
+tags: [Networks]
+---
+
 ### Introduction
 
 Have you ever wondered how a website opens when you click on it? Well, I certainly did and I started looking for answers. Now that I’m a couple of years into this journey, I have developed a certain level of understanding and I’ve presented a rudimentary explanation in this blogpost.
